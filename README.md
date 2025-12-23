@@ -1,6 +1,6 @@
 ### GenAI Engineer & GraphRAG Specialist
 
-Building autonomous agents that reason with structured memory.
+Bridging the gap between theoretical AI and production engineering.
 Focused on moving beyond vector similarity (RAG) to knowledge-graph inference (GraphRAG).
 
 **Current Development:**
