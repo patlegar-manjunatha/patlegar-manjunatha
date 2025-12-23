@@ -1,16 +1,16 @@
-## Hi there 👋
+### GenAI Engineer & GraphRAG Specialist
 
-<!--
-**patlegar-manjunatha/patlegar-manjunatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building autonomous agents that reason with structured memory.
+Focused on moving beyond vector similarity (RAG) to knowledge-graph inference (GraphRAG).
 
-Here are some ideas to get you started:
+**Current Development:**
+- **Sherlock:** An autonomous recruitment agent using LangGraph + Neo4j (Replacing keyword matching with semantic reasoning).
+- **Project Veda:** Local-first virtual human with Computer Vision & Voice (Architecture phase).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Stack:**
+- **Core:** Python, SQL, Cypher (Neo4j)
+- **Orchestration:** LangChain, LangGraph, LlamaIndex
+- **Infrastructure:** Docker, FastAPI, Postgres (pgvector)
+
+---
+[LinkedIn](https://www.linkedin.com/in/patlegar-manjunatha/)
